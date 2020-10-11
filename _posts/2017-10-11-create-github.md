@@ -5,7 +5,7 @@ info: "Create new github repository"
 tech: "python, spacy, nlt"
 type: A Company
 img: "/assets/img/profile.jpeg" 
-tag: "ML"
+tags: "ML"
 concepts: "Natural Language Processing, SOcial Media mining"
 type: "project"
 ---

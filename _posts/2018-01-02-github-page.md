@@ -5,7 +5,7 @@ info: "Create my github blog."
 tech: "ruby, jekyll"
 type: B Company
 img: "/assets/img/profile.jpeg" 
-tags: "Visualization"
+tags: ["Visualization", "IDK", "Big Data"]
 type: "project"
 ---
 

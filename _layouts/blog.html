@@ -3,7 +3,8 @@ layout: base
 ---
 
 <div class="portfolio">
-  {% for post in paginator.posts %}
+    {% for post in paginator.posts %}
+  {% if post.type == "blog" %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="portfolio-item">
       <div>
         <h1 class="portfolio-title">{{ post.title }}</h1>
@@ -30,18 +31,9 @@ layout: base
       </div>
     </a>
     </br>
-  {% endfor %}
-</div>
+    {% endif %}
+    {% endfor %}
 
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left next">Prev</a>
-  {% endif %}
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right next">Next</a>
-  {% endif %}
-
-  <span>{{ paginator.page }}</span>
 </div>
 
 

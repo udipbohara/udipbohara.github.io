@@ -5,7 +5,7 @@ info: "toy project"
 tech: "python3"
 img: "/assets/img/profile.jpeg" 
 concepts: "Natural Language Processing, SOcial Media mining"
-type: "blog"
+type: "project"
 ---
 
 ## Toy Project 1.
