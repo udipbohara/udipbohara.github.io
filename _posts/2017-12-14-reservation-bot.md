@@ -5,6 +5,8 @@ info: "Restaurant Reservation Bot"
 tech: "Python, Slack API"
 type: B Company
 img: "/assets/img/profile.jpeg" 
+concepts: "Natural Language Processing, SOcial Media mining"
+type: "blog"
 ---
 
 ## Reservation Bot 

@@ -3,8 +3,9 @@ layout: post
 title:  "Toy Project 1"
 info: "toy project"
 tech: "python3"
-type: Toy
 img: "/assets/img/profile.jpeg" 
+concepts: "Natural Language Processing, SOcial Media mining"
+type: "blog"
 ---
 
 ## Toy Project 1.

@@ -5,6 +5,7 @@ info: "I am just testing to see how the images would align"
 tech: "python"
 type: Toy 
 img: "/assets/img/profile.jpeg" 
+type: "blog"
 ---
 
 

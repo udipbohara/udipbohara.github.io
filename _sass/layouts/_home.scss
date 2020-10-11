@@ -99,15 +99,16 @@
 
     &-label {
       display: inline-block;
-      margin: 2rem 0 0.5rem;
+      margin: 1rem 0 0.5rem;
       font-family: $sans-serif;
       color: $default-color;
+      font-size: 1.2rem;
     }
   }
   &-post {
     display: flex;
     justify-content: space-between;
-    padding: 5px 0;
+    padding: 1px 0;
     
     &-title {
       color: $default-color;
@@ -115,6 +116,7 @@
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
+      font-size: 0.9rem;
     }
 
     &-line {

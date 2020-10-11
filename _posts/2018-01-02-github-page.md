@@ -6,6 +6,7 @@ tech: "ruby, jekyll"
 type: B Company
 img: "/assets/img/profile.jpeg" 
 tags: "Visualization"
+type: "project"
 ---
 
 ## Create github page 
