@@ -24,7 +24,14 @@ body {
 }
 
 h1,
-h2,
+h2 {
+  color: $default-shade;
+  font-family: $sans-serif;
+  font-weight: bold;
+  margin-top: -7px;
+  margin-bottom: -10px;
+  }
+
 h3,
 h4,
 h5,

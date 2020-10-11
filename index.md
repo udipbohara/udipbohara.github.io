@@ -2,12 +2,12 @@
 layout: about 
 ---
 
-# About Me
+## About Me
 I am a Graduate student studying Data Science.  
 
-<br/>
+-----
 
-# Career
+## Current Research
 * Second Company (2012/01 ~ )
   * Web Application Firewall
     * Developed TCP network acceleration module.
@@ -16,9 +16,9 @@ I am a Graduate student studying Data Science.
   * VPN Development Company
   * Team Leader of VPN Development Div.
 
-<br/>
+-----
 
-# Interests/Experience
+## Interests/Experience
 - Machine learning
 - Econometric Modeling/ Time-Series Modeling
 - Experimental Design/ Statistical Modeling

@@ -4,6 +4,7 @@ title:  "Reservation Bot"
 info: "Restaurant Reservation Bot"
 tech: "Python, Slack API"
 type: B Company
+img: "/assets/img/profile.jpeg" 
 ---
 
 ## Reservation Bot 

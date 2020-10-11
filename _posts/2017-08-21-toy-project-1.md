@@ -4,6 +4,7 @@ title:  "Toy Project 1"
 info: "toy project"
 tech: "python3"
 type: Toy
+img: "/assets/img/profile.jpeg" 
 ---
 
 ## Toy Project 1.

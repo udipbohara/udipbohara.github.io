@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Toy Project"
-info: "toy project"
+info: "I am just testing to see how the images would align"
 tech: "python"
 type: Toy 
+img: "/assets/img/profile.jpeg" 
 ---
 
 

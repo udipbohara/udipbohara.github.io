@@ -2,8 +2,10 @@
 layout: post
 title:  "Create github"
 info: "Create new github repository"
-tech: "none"
+tech: "python, spacy, nlt"
 type: A Company
+img: "/assets/img/profile.jpeg" 
+tag: "ML"
 ---
 
 ## Create 

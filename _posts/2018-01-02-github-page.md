@@ -4,6 +4,8 @@ title:  "Create github page"
 info: "Create my github blog."
 tech: "ruby, jekyll"
 type: B Company
+img: "/assets/img/profile.jpeg" 
+tags: "Visualization"
 ---
 
 ## Create github page 

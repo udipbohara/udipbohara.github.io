@@ -1,5 +1,5 @@
 # Site settings
-title: U.J.B
+title: Home
 baseurl: ""
 url: "https://udipbohara.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
@@ -23,7 +23,7 @@ social:
   google_plus:
   instagram:
   keybase:
-  linkedin: udipbohara
+  linkedin: https://www.linkedin.com/in/udipbohara/
   pinterest:
   reddit:
   soundcloud:
@@ -31,7 +31,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: https://www.twitter.comhttps://twitter.com/BoharaUdip
+  twitter: https://twitter.com/BoharaUdip
   vimeo:
   wordpress:
   youtube:
