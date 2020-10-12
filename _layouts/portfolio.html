@@ -4,14 +4,12 @@ layout: base
 
 <div class="portfolio">
   {% for post in paginator.posts %}
-  {% if post.type == "project" %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="portfolio-item">
       <div>
         <h1 class="portfolio-title">{{ post.title }}</h1>
         <div class="portfolio-line"></div>
         <div class="portfolio-img">
-          <img src ="{{post.img}}"
-          width="300" height="270">
+          <img src ="{{post.img}}" width="{{post.img_dimensions[0]}}" height="{{post.img_dimensions[1]}}">
         </div>
         <div class="portfolio-content"> 
           <span class="portfolio-icon">
@@ -31,7 +29,6 @@ layout: base
       </div>
     </a>
     </br>
-    {% endif %}
   {% endfor %}
 
 </div>

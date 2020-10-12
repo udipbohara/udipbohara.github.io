@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Toy Project"
+title:  "Visualizations using d3"
 info: "I am just testing to see how the images would align"
 tech: "python"
 type: Toy 
@@ -10,22 +10,13 @@ type: "blog"
 
 
 
+<div class="displaysort"></div>
+<p>Credit: <a href="https://observablehq.com/@udipbohara/bohara-final-problem-1-attempt-b">Bohara Final Problem 1 Attempt B+  by Udip Bohara</a></p>
 
-
-## Toy Project 1.
-There is no specific form.  
-You can write what you want to write.  
-Since this markdown file is just displayed on the screen, you can create an image or format that matches the format you want.  
-In the case of the example, I briefly described the project introduction, technique, and period.  
-
-
-
-
-## Techique
-I wrote that I used python to run the project.  
-You just need to describe how you made it.  
-
-
-## Duration 
-You can enter the period in a convenient format.   
-You may specify only the duration of your work, assuming that you create a start date in the filename.  
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/@udipbohara/bohara-final-problem-1-attempt-b.js?v=3";
+(new Runtime).module(define, name => {
+  if (name === "displaysort") return Inspector.into(".displaysort")();
+});
+</script>
