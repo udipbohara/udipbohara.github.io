@@ -23,11 +23,12 @@ pre code {
 }
 
 .highlight {
-  background-color: $grey-3;
+  background-color: #DEDECF;
   border-radius: 3px;
   line-height: 1.4;
-  margin: 0 0 1rem;
-  padding: 1rem;
+  margin: 0 0 0.5rem;
+  padding: 0.5rem;
+  font-size: 0.6rem;
 
   pre {
     margin-bottom: 0;

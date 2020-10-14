@@ -11,6 +11,11 @@ type: "blog"
 link: "https://github.com/udipbohara/forecasting_dash"
 ---
 
+
+  <div style="text-align: center">
+  <i class="fa fa-code"></i> <a href="https://github.com/udipbohara/forecasting_dash">Code to this Repo</a>
+  </div>
+<br>
 Interactive Dash app visualizing and forecasting electricity consumption in the US through econometric modeling and FB prophet (LSTM etc).
 
 This Interactive app utilizes data from https://www.eia.gov/opendata/ API to pull electricity consumption data.<br>

@@ -12,6 +12,11 @@ type: "project"
 img: "/assets/img/clustering/main.png"
 ---
 
+  <div style="text-align: center">
+  <i class="fa fa-code"></i> <a  href="https://www.google.com">Code to this Repo</a>
+  </div>
+
+<br>
 ## NHAMCS-
 
 Applying supervised and unsupervised clustering techniques healthcare data from

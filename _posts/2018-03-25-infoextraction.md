@@ -10,6 +10,12 @@ type: "blog"
 link: "https://github.com/udipbohara/info_extraction_receipts"
 ---
 
+
+<div style="text-align: center">
+<i class="fa fa-code"></i> <a href="https://github.com/udipbohara/info_extraction_receipts">Code to this Repo</a>
+</div>
+<br>
+
 ## Information Extraction from Semi-Structured Documents.
 
 A scalable and robust method of extracting relevant information from semi-structured documents(invoices, reciepts, ID cards, licenses etc) with transductive learning by leveraging Graph Convolutional Networks(GCNs). This project can be scaled to any semi-structured document for auto-labeling through machine learning. 

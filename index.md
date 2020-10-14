@@ -3,12 +3,13 @@ layout: about
 ---
 
 ## About Me
-I am a Graduate student studying Data Science.  
+I am a Graduate student studying Data Science. 
+I am currently the Graduate reserach Assistant for the Department of Data Science and Cyber Security. 
 
 -----
 
 ## Current Research
-* Second Company (2012/01 ~ )
+* Anomaly detection system using intrusion system.
   * Web Application Firewall
     * Developed TCP network acceleration module.
     * Developde Application User Interface.
@@ -24,3 +25,4 @@ I am a Graduate student studying Data Science.
 - Experimental Design/ Statistical Modeling
 - Graph Theory
 
+s
