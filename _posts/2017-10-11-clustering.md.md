@@ -4,8 +4,8 @@ title:  "Use Unsupervised Clustering methods to identify clusters in Patients"
 info: "Explore different clustering techniques - K-Means, GMM, K-Modes and K-Prototypes to segregate patients data and visualize it using PCA decomposition"
 tech: "python, spacy, nlt"
 type: A Company
-img: "/assets/img/profile.jpeg" 
-img_dimensions: ["400","270"]
+img: "/assets/img/clustering/main.png" 
+img_dimensions: ["300","300"]
 tags: "ML"
 concepts: "Unsupervised Learning, Clustering"
 type: "project"
