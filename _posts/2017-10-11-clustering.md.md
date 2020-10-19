@@ -10,13 +10,10 @@ tags: "ML"
 concepts: "Unsupervised Learning, Clustering"
 type: "project"
 img: "/assets/img/clustering/main.png"
+tags: ["Visualization", "Clustering"]
 ---
 
-  <div style="text-align: center">
-  <i class="fa fa-code"></i> <a  href="https://www.google.com">Code to this Repo</a>
-  </div>
 
-<br>
 ## NHAMCS-
 
 Applying supervised and unsupervised clustering techniques healthcare data from
@@ -42,11 +39,8 @@ Apply K-Means on numerical data and present the clusters in a PCA plot.<br>
 Apply GMM Clustering on numerical data and present the clusters in a PCA plot.<br>
 - K-Modes:
 Nominal and ordinal categorical data clustered and presented in a PCA plot.<br>
-
 - K-Prototypes: euclidean distance in the numerical features whereas dissimilarity measures in categorical features.
-```python
-from kmodes.kprototypes import KPrototypes
-```
+
 
 <img src="/assets/img/clustering/main.png"> 
 

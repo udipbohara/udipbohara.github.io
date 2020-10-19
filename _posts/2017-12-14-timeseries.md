@@ -9,6 +9,7 @@ img_dimensions: ["400","270"]
 concepts: "Econometric, Time-Series Modeling, Neural Networks"
 type: "blog"
 link: "https://github.com/udipbohara/forecasting_dash"
+tags: ["Time-Series", "Deep Learning"]
 usemathjax: true
 ---
 

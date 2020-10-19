@@ -2,7 +2,7 @@
 layout: post
 title:  "Information-Extraction-Reciepts"
 info:  "A scalable and robust method of extracting relevant information from semi-structured documents(invoices, reciepts, ID cards, licenses etc) with transductive learning by leveraging Graph Convolutional Networks(GCNs)."
-tags: ["ML", "Deep Learning"]
+tags: ["ML", "Deep Learning", "OCR"]
 tech : "python, pyspark, mongo, etc"
 img: "/assets/img/info_extraction_receipts/figure_0.png" 
 concepts: "Natural Language Processing, SOcial Media mining"
