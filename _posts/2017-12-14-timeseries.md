@@ -26,6 +26,18 @@ Time-Series Forecasting is a very relevant business problem that can be highly e
 
 This app takes EIA data from all the regions from the US for electricity demand and uses econometric modeling for forecasting for the following regions
 
+<div>
+    <center>
+    <img src="/assets/img/forecasting/main.png"/>
+        <br>
+     <text><b> Fig: Different Regions and their Corresponding States </b> <br> 
+         <i> (Source: https://www.eia.gov)</i>
+     </text>
+    </center>
+</div>
+
+
+
 Here is a json file I have created for each region and its corresponding states. 
 ```json
 [
