@@ -37,7 +37,6 @@ This app takes EIA data from all the regions from the US for electricity demand 
 </div>
 
 
-
 Here is a json file I have created for each region and its corresponding states. 
 ```json
 [

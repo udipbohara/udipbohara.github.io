@@ -5,7 +5,7 @@ info: "AB testing fundamentals mathematics"
 tech: "python"
 type: Toy 
 img: "/assets/img/testingjupytermd/output_4_1.png" 
-img_dimensions: ["400","450"]
+img_dimensions: ["400","400"]
 type: "blog"
 usemathjax: true
 ---

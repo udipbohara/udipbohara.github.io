@@ -28,11 +28,13 @@ Triage phenotype data is used for this study:
 
 __Heuristics methods applied:__ <br>
 __Hopkins test__: A statistical test which allow to guess if the data follow an uniform distribution. If the test is positve, (an hopkins score which tends to 0) it means that clustering is useless for the dataset. A score between 0 and 1, a score around 0.5 express no clusterability and a score tending to 0 express a high cluster tendency.<br>
+
 __Elbow method__:
+"Elbow" or "knee of a curve" as a cutoff point is a common heuristic in mathematical optimization to choose a point where diminishing returns are no longer worth the additional cost.
 
 Patient clustering techniques:
 - PCA: 
-Condense numerical features into two Principal Components to cluster data to be fed in for visualization purposes. Also apply _known classes/labels_ for cluster analysis. <br>
+Condense numerical features into two Principal Components to cluster data to be fed in for visualization purposes. Two principle components were able to capture most of the variation in the data so I found it suitable for visualization purposes. Also apply _known classes/labels_ for cluster analysis. <br>
 - K-Means: 
 Apply K-Means on numerical data and present the clusters in a PCA plot.<br>
 - GMM Clustering
