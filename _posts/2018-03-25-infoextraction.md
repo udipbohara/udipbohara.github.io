@@ -5,7 +5,7 @@ info:  "A scalable and robust method of extracting relevant information from sem
 tags: ["ML", "Deep Learning", "OCR"]
 tech : "python, pyspark, mongo, etc"
 img: "/assets/img/info_extraction_receipts/figure_0.png" 
-concepts: "Natural Language Processing, SOcial Media mining"
+concepts: "Deep Learning, Optical character recognition "
 type: "blog"
 link: "https://github.com/udipbohara/info_extraction_receipts"
 ---

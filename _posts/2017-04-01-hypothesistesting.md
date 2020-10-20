@@ -7,6 +7,7 @@ type: Toy
 img: "/assets/img/testingjupytermd/output_4_1.png" 
 img_dimensions: ["400","400"]
 type: "blog"
+concepts: "Visualization"
 usemathjax: true
 ---
 <p> Exploring the Concepts of Hypothesis (A/B) Testing with Python</p>
