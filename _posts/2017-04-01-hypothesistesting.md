@@ -8,15 +8,14 @@ img: "/assets/img/testingjupytermd/output_4_1.png"
 img_dimensions: ["400","330"]
 type: "blog"
 concepts: "Visualization"
-
 usemathjax: true
+---
+
 
 <div style="text-align: center">
 <i class="fa fa-code"></i> <a  href="https://github.com/udipbohara/Statistics-in-AB-testing">Codes for this repo</a>
 </div>
 
-
----
 <p> Exploring the Concepts of Hypothesis (A/B) Testing with Python</p>
 <h1> Table of Contents: </h1>
 <a href="#C1">Jump to 1. Introduction</a><br>
