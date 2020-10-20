@@ -16,6 +16,7 @@ I am currently the Graduate reserach Assistant for the Department of Data Scienc
 ## Interests/Experience
 - Machine learning
 - Econometric Modeling/ Time-Series Modeling
-- Experimental Design/ Statistical Modeling
+- Experimental Design 
+- Statistical Modeling
 - Graph Theory
 
