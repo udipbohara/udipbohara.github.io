@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Time Series Forecasting"
-info: "Restaurant Reservation Bot"
+info: "Using econometric and deep learning methods for time-series forecasting/predictions.s"
 tech: "Python, Slack API"
 type: B Company
 img: "/assets/img/forecasting/demo.gif" 

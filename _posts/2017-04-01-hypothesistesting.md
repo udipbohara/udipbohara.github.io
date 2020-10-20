@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hypothesis testing"
-info: "AB testing fundamentals mathematics"
+info: "Mathematics behind A/B testing fundamentals."
 tech: "python"
 type: Toy 
 img: "/assets/img/testingjupytermd/output_4_1.png" 
