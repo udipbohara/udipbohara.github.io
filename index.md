@@ -11,21 +11,23 @@ I am currently the Graduate Reserach Assistant for the Department of Data Scienc
 ## Current Interests:
 Statistical inference, experimental design, machine learning interpretability/explainability, forecasting (econometrics and deep learning), geospatial data analytics and recommendation engines with integration of NoSQL database platforms (MongoDB and Neo4j).
 
+-----
+
+
 ## Current Research:
 * Experimental Design/Statistical Modeling.
-* Intrusion Detection System(IDS) using various deep learning methods.
+* Intrusion Detection System(IDS) with anomaly detection system using various deep learning methods.
 * Develop NLP based recommendation system using PySpark and Neo4j.
 
 -----
 
-### Relevant Courses:
+### Relevant Graduate Courses:
 Probability and Statistics, Algorithm Development, Data Structures and Algorithms, Data Wrangling, Relational and Non-Relational Databases, Big Data Analytics, Machine Learning, Text Mining, Research Methods, Reserach Project, Data Visualization, Geospatial Data Analytics
 
 -----
 
-## Past Research (Undergraduate):
+### Past Research:
 Statistical modeling/inference, Causual Inference, Survey and Experimental Design and Hypothesis testing in the field of Biostatistics and Epidemiology with SPSS, Epi Info and STATA
-
 
 ### Healthcare Analytics and Biostatistics: 
 
