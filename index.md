@@ -26,7 +26,7 @@ Probability and Statistics, Algorithm Development, Data Structures and Algorithm
 
 -----
 
-### Past Research:
+## Past Research:
 Statistical modeling/inference, Causual Inference, Survey and Experimental Design and Hypothesis testing in the field of Biostatistics and Epidemiology with SPSS, Epi Info and STATA
 
 ### Healthcare Analytics and Biostatistics: 
