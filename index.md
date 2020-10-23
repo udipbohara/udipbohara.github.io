@@ -4,7 +4,7 @@ layout: about
 
 ## About Me
 I am a Graduate student studying Data Science in Mercyhurst University. 
-I am currently the Graduate Reserach Assistant for the Department of Data Science and Cyber Security. 
+I am currently the Graduate Research and Teaching Assistant for the Department of Data Science and Cyber Security. 
 
 My current interests are in statistical inference, experimental design, machine learning interpretability/explainability, forecasting (econometrics and deep learning), geospatial data analytics and recommendation engines with integration of NoSQL database platforms (MongoDB and Neo4j).
 
