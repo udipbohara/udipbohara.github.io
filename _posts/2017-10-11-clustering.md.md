@@ -44,6 +44,8 @@ Nominal and ordinal categorical data clustered and presented in a PCA plot.<br>
 - K-Prototypes: euclidean distance in the numerical features whereas dissimilarity measures in categorical features.
 
 
+<img src="/assets/img/clustering/gmm.png"> 
+<br>
 <img src="/assets/img/clustering/main.png"> 
 
 
