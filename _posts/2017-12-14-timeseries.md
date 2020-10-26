@@ -2,7 +2,7 @@
 layout: post
 title:  "Time Series Forecasting"
 info: "Using econometric and deep learning methods for time-series forecasting/predictions.s"
-tech: "Python, Slack API"
+tech: "Python, pymongo, API"
 type: B Company
 img: "/assets/img/forecasting/demo.gif" 
 img_dimensions: ["400","270"]
