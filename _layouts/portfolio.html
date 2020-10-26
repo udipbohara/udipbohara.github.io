@@ -35,10 +35,10 @@ layout: base
 
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" style="padding-bottom:40px; font-size: 50px;" class="left next">Prev</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" style="font-size: 20px;" class="left next">Prev</a>
   {% endif %}
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right next">Next</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" style="font-size: 20px;" class="right next">Next</a>
   {% endif %}
 
   <span>{{ paginator.page }}</span>
