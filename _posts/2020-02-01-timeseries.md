@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Time Series Forecasting"
-info: "Using econometric and deep learning methods for time-series forecasting/predictions.s"
+info: "Using econometric and deep learning methods for time-series forecasting/predictions"
 tech: "Python, pymongo, API"
 type: B Company
 img: "/assets/img/forecasting/demo.gif" 
