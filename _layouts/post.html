@@ -11,6 +11,11 @@ layout: base
   {{ content }}
 </div>
 
+{% if page.image %}
+  <meta property="og:image" content="path/to/post/image.jpg">
+{% else %}
+  <meta property="og:image" content="path/to/page/image.jpg">
+{% endif %}
 
 
 <div class="pagination">
