@@ -11,11 +11,15 @@ layout: base
   {{ content }}
 </div>
 
-{% if page.image %}
-  <meta property="og:image" content="path/to/post/image.jpg">
-{% else %}
-  <meta property="og:image" content="path/to/page/image.jpg">
-{% endif %}
+
+
+{% for post in site.posts %}
+    <div>
+        <a href="{{ post.url }}" ><img src="{{ post.thumbnail }}" />
+        <a href="{{ post.url }}" >{{ post.title }}</a>
+    </div>
+{% endfor %}
+
 
 
 <div class="pagination">
