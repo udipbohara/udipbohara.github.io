@@ -2,7 +2,12 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <meta property="og:image" content="/assets/apple-touch-icon.png">
+  {% if post.thumbnail %}
+  <meta property="og:image" content={post.thumbnail}>
+    {% else %}
+    <meta property="og:image" content="/assets/apple-touch-icon.png">
+    {% endif %}
+
     
   <title>{{ site.title }}</title>
 
