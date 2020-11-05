@@ -12,7 +12,7 @@ link: "https://github.com/udipbohara/info_extraction_receipts"
 
 
 <div style="text-align: center">
-<i class="fa fa-code"></i> <a href="https://github.com/udipbohara/info_extraction_receipts">Code to this Repo</a>
+<i class="fa fa-code"></i> <a href="https://github.com/udipbohara/info_extraction_receipts">Link to Code  Repo</a>
 </div>
 <br>
 

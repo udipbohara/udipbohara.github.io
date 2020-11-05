@@ -15,7 +15,7 @@ usemathjax: true
 
 
   <div style="text-align: center">
-  <i class="fa fa-code"></i> <a href="https://github.com/udipbohara/forecasting_dash">Code to this Repo</a>
+  <i class="fa fa-code"></i> <a href="https://github.com/udipbohara/forecasting_dash">Link to Code  Repo</a>
   </div>
 <br>
 
