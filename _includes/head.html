@@ -3,7 +3,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   {% if page.thumbnail %}
-  <meta property="og:image" content={{thumbnail}}>
+  <meta property="og:image" content={{"page.thumbnail"}}>
     {% else %}
     <meta property="og:image" content="/assets/apple-touch-icon.png">
     {% endif %}
