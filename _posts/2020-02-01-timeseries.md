@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Time Series Forecasting"
+title:  "Forecasting Electricity Demand (Time-Series Modeling)"
 info: "Using econometric and deep learning methods for time-series forecasting/predictions"
 tech: "Python, pymongo, API"
 type: B Company
