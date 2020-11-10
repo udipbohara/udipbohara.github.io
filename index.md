@@ -5,14 +5,13 @@ layout: about
 ## About Me
 I am a Graduate student studying Master of Science in Data Science at Mercyhurst University. I am currently the Graduate Research and Teaching Assistant for the Department of Data Science and Cyber Security. I am well versed in Statistical and Machine Learning concepts/algorithms and am perpetually developing my skills as a Data Scientist to tackle real-world/business problems. 
 
-My current interests are in Natural Language Processing, Machine Learning, Statistical Inference, Experimental Design, Forecasting (econometrics and deep learning), Geospatial data analytics and Recommendation engines with integration of NLP in NoSQL database platforms (MongoDB and Neo4j).
+My undergraduate work was focused around Statistical Modeling and Hypothesis Testing whereas my graduate work has been focused on Machine Learning and Predictive modeling.
+
 
 -----
 
-## Current Research:
-* Experimental Design/Statistical Modeling.
-* Intrusion Detection System(IDS) with anomaly detection system using various deep learning methods.
-* Develop NLP based recommendation system using PySpark and Neo4j.
+## Current Research - Predictive Modeling:
+My current interests are in Natural Language Processing, Machine Learning, Statistical Inference, Experimental Design, Forecasting (econometrics and deep learning), Geospatial data analytics and Recommendation engines with integration of NLP in NoSQL database platforms (MongoDB and Neo4j). 
 
 -----
 
@@ -21,7 +20,7 @@ Probability and Statistics, Algorithm Development, Data Structures and Algorithm
 
 -----
 
-### Past Research (Undergraduate):
+### Past Research - Statistical Modeling (Undergraduate):
 Statistical modeling/inference, Causual Inference, Survey and Experimental Design and Hypothesis testing in the field of Biostatistics and Epidemiology with SPSS, Epi Info and STATA
 
 ### Healthcare Analytics and Biostatistics: 
