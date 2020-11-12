@@ -3,7 +3,7 @@ layout: about
 ---
 
 ## About Me
-I am a Graduate student studying Master of Science in Data Science at Mercyhurst University. I am currently the Graduate Research and Teaching Assistant for the Department of Data Science and Cyber Security. I am well versed in Statistical and Machine Learning concepts/algorithms and am perpetually developing my skills as a Data Scientist to tackle end-to-end real-world/business problems. 
+I am a Graduate student studying Master of Science in Data Science at Mercyhurst University. I am currently the Graduate Research and Teaching Assistant for the Department of Data Science and Cyber Security. I am well versed in Statistical and Machine Learning concepts/algorithms and am perpetually developing my skills as a Data Scientist to tackle real-world/business problems. I enjoy deep domain and mathematical/machine-learning research  to build robust end-to-end models. 
 
 My undergraduate work was focused around Statistical Modeling and Hypothesis Testing whereas my graduate work has been focused on Machine Learning and Predictive modeling.
 
