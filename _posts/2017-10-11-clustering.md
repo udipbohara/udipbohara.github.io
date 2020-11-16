@@ -49,14 +49,12 @@ Nominal and ordinal categorical data clustered and presented in a PCA plot.<br>
 <img src="/assets/img/clustering/main.png"> 
 
 
-Papers:
 
-__Citation for secondary dataset__:
+
+__Datasets__:
 "Hong WS, Haimovich AD, Taylor RA (2018) Predicting hospital admission at emergency department triage using machine learning. PLoS ONE 13(7): e0201016." (https://doi.org/10.1371/journal.pone.0201016)
 
 
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.474.8181&rep=rep1&type=pdf
 
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.15.4028&rep=rep1&type=pdf
 
 
