@@ -3,7 +3,6 @@ layout: post
 title:  "Unsupervised Clustering methods to identify clusters in Patients"
 info: "Explore different clustering techniques - K-Means, GMM, K-Modes and K-Prototypes to segregate patients data and visualize it using PCA decomposition"
 tech: "python"
-type: A Company
 img: "/assets/img/clustering/main.png" 
 img_dimensions: ["300","300"]
 tags: "ML"
