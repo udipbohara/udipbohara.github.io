@@ -11,7 +11,7 @@ My undergraduate work was focused around Statistical Modeling and Hypothesis Tes
 -----
 
 ## Current Research - Predictive Modeling:
-My current interests are in Marketing/Customer Analytics, Natural Language Processing, Machine Learning, Statistical Inference, Experimental Design, Forecasting (econometrics and deep learning), Geospatial data analytics and Recommendation engines with integration of NLP in NoSQL database platforms (MongoDB and Neo4j). 
+My current interests are in Marketing/Customer Analytics (Recommendation systems, segmentation, behavioral analysis, customer retention), Natural Language Processing, Machine Learning, Statistical Inference, Experimental Design, Forecasting (econometrics and deep learning), Geospatial data analytics and Recommendation engines with integration of NLP in NoSQL database platforms (MongoDB and Neo4j). 
 
 -----
 
